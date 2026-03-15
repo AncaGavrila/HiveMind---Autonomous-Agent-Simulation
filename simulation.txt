@@ -1,0 +1,11 @@
+ RAPORT FINAL HIVEMIND 
+Profit Net: 14807 credite
+Ticks Rulate: 1000
+Eficienta Livrare: 100%
+Rewarduri Totale (Brut): 24581 credite
+Costuri Operare Totale: 9074 credite
+Pachete Livrate: 50
+Pachete Nelivrate: 0
+Pachete Intarziate: 14
+Agenti morti: 0
+Total Pachete Spawned: 50
